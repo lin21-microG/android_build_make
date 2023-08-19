@@ -59,7 +59,6 @@ PRODUCT_PACKAGES += \
     MusicFX \
     PacProcessor \
     preinstalled-packages-platform-handheld-system.xml \
-    PrintRecommendationService \
     PrintSpooler \
     ProxyHandler \
     screenrecord \
